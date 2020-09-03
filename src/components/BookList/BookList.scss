@@ -1,0 +1,16 @@
+.book {
+  &-title {
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  &-container {
+    margin-bottom: 60px;
+    padding: 30px;
+  }
+
+  &-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
